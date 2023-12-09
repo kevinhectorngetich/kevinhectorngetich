@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning javascript bundled with v8 compiler ..a.k.a node 😄
 - 💞️ I’m looking to collaborate on flutter projects, ui design, animations, also backend stuff with node.
 - 📫 How to reach me ... email @ ngetichkevinhector@gmail.com
-[![wakatime](https://wakatime.com/badge/user/b38a6b86-3bb2-4449-825c-d2db67afb371.svg)](https://wakatime.com/@b38a6b86-3bb2-4449-825c-d2db67afb371)?style=social
+
+[![wakatime](https://wakatime.com/badge/user/b38a6b86-3bb2-4449-825c-d2db67afb371.svg)](https://wakatime.com/@b38a6b86-3bb2-4449-825c-d2db67afb371)
 
 <!--
 **kevinhectorngetich/kevinhectorngetich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

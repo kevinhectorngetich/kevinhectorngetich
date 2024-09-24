@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👋 Hi, I’m kevinhector ngetich
-- 👀 I’m interested in flutter, dart, three js, rive, and much more fun stuff
+- 👀 I’m interested in flutter, dart, three js, rive, and much more fun stuff!
 - 🌱 I’m currently learning node js 😄
 - 💞️ I’m looking to collaborate on flutter projects, ui design, animations, also backend stuff with node.
 - 📫 How to reach me, email @ ngetichkevinhector@gmail.com

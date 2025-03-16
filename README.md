@@ -8,7 +8,7 @@
 [![wakatime](https://wakatime.com/badge/user/b38a6b86-3bb2-4449-825c-d2db67afb371.svg)](https://wakatime.com/@b38a6b86-3bb2-4449-825c-d2db67afb371) 
 
 <!--
-**kevinhectorngetich/kevinhectorngetich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kevinhectorngetich/kevinhectorngetich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 
 

@@ -2,7 +2,7 @@
 - 👋 Hi, I’m kevinhector
 - 👀 I’m interested in flutter, dart, rive, fast api, deno, python, and much more fun stuff! 
 - 🌱 I’m currently learning node js, Generative AI 😄
-- 💞️ I’m looking to collaborate on flutter projects, ui design, animations, also backend stuff with node and python + ML stuff.
+- 💞️ I’m looking to collaborate on flutter projects, ui design, animations, also backend stuff with node and python + ML stuff. 
 - 📫 How to reach me, email @ ngetichkevinhector@gmail.com
 
 [![wakatime](https://wakatime.com/badge/user/b38a6b86-3bb2-4449-825c-d2db67afb371.svg)](https://wakatime.com/@b38a6b86-3bb2-4449-825c-d2db67afb371) 

@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 Hi, I’m kevinhector
+- 👋 I’m kevinhector
 - 👀 I’m interested in flutter, dart, rive, fast api, deno, python, and much more fun stuff! 
 - 🌱 I’m currently learning node js, Gen AI 😄
 - 💞️ I’m looking to collaborate on flutter projects, ui design, animations, also backend stuff with node and python + ML stuff.
